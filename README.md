@@ -133,6 +133,16 @@ public static void VisInfoallePersoner(List<Studerende> listStudents, List<Under
 ```
 ### Thank you for reading!
 
-I hope you found this project helpful. If you're interested in checking out more of my work, you can find my other projects [here](https://github.com/PlutoGamerpro?tab=stars).
+## 🧑‍🏫 **More Resources & Tutorials**
+
+Check out these amazing resources for more information and advanced coding skills: 📚
+
+If you're looking to deepen your understanding, here are some helpful resources you might find useful:
+
+- 🌟 [Official Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
+- 📚 [My Coding Tutorials on YouTube](https://www.youtube.com/@CodeByScript)
+- 🚀 [Explore My Projects Here!](https://github.com/PlutoGamerpro?tab=stars)  
+
+Feel free to explore these if you're interested! 😊
 
   
