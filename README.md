@@ -3,13 +3,6 @@
 Welcome to the **Student and Staff Management System**! This console application is designed to manage students 🎒, teachers 👩‍🏫👨‍🏫, and administrative staff 🏢 within a school.  📚✨
 
 
-## 📋 Table of Contents
-- [Introduction](#introduction) 📖
-- [How It Works](#how-it-works) ⚙️
-- [Code Overview](#code-overview) 🖥️
-- [Usage](#usage) 🚀
-
-
 ## 📖 Introduction
 In this project, you'll find a simple menu-driven console application that allows users to add 🆕 and display information about students 🎓, teachers 👩‍🏫, and administrative staff 🧑‍💼. Each entity can be managed efficiently through a clear and user-friendly interface. Let's explore the code! ✨🚀
 
